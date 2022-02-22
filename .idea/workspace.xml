@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1588c8b5-59b1-44b0-a643-35e9eccaddee" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/lib/core/app_export.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/constants/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/utils/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/utils/color_constant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/utils/image_constant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/utils/math_utils.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/more_screen/more_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/request_screen/request_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/teams_screen/teams_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/wallets_screen/models/card_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/wallets_screen/models/transaction_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/wallets_screen/wallets_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/wallets_screen/widgets/card_view_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/wallets_screen/widgets/transaction_element_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/presentation/wallets_screen/widgets/transaction_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/google_maps_navigation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/google_maps_navigation.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/google_maps_navigation_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../test/google_maps_navigation_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\tusha\.android\avd\Pixel_XL_API_30.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25TeUFmBly8HSYd0CyjPglM1wVR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tusha\AndroidStudioProjects\google_maps_navigation-git\wallet_demo\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="wallet_demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="wallet_demo" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1588c8b5-59b1-44b0-a643-35e9eccaddee" name="Default Changelist" comment="" />
+      <created>1645555530538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645555530538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>
