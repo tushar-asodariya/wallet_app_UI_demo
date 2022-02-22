@@ -1,1 +1,0 @@
-String currencySymbol = 'S\$';
